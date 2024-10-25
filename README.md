@@ -1,4 +1,4 @@
-# Spicetify
+[# Spicetify](https://spicetify.app/images/spicetify.png)
 
 ## Descargar:
 Primero descarga spotify desde [aquí](https://download.scdn.co/SpotifySetup.exe)
