@@ -1,4 +1,4 @@
-<img src= "[https://github.com/rubencq26/rubencq26/blob/main/d4mh6ry-6502ac89-97e3-4297-9a10-efcf023654ff.gif](https://spicetify.app/images/spicetify.png)" width = 50px >
+<img src= "https://spicetify.app/images/spicetify.png" width = 50px >
 <h1>Spicetify</h1>
 
 ## Descargar:
