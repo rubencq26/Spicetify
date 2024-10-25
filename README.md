@@ -1,5 +1,5 @@
-<img src= "https://spicetify.app/images/spicetify.png" width = 50px >
-<h1>Spicetify</h1>
+<h1><img src= "https://spicetify.app/images/spicetify.png" width = 50px > Spicetify</h1>
+
 
 ## Descargar:
 Primero descarga spotify desde [aquí](https://download.scdn.co/SpotifySetup.exe)
