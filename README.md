@@ -2,7 +2,7 @@
 
 
 ## Descargar:
-Primero descarga spotify desde [aquí](https://download.scdn.co/SpotifySetup.exe)
+Primero desinstala spotify, luego descargalo desde 👉[aquí](https://download.scdn.co/SpotifySetup.exe)👈
 
 Luego en la PowerShell de Windows copia esto
 ```powershell
